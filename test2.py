@@ -9,7 +9,7 @@ from pynput.mouse import Listener   # using module mouse
 import logging
 
 
-logging.basicConfig(filename=("mouse_log.txt"), level=logging.DEBUG, format='%(asctime)s: %(message)s')
+# logging.basicConfig(filename=("mouse_log.txt"), level=logging.DEBUG, format='%(asctime)s: %(message)s')
 
 
 def on_move(x, y):
