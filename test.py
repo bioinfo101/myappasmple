@@ -5,6 +5,7 @@ Created on Mon May 23 15:08:49 20bbb20
 @author: HuangRen
 """
 
+import os
 import keyboard  # using module keyboard
 
 while True:  # making a loop
